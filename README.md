@@ -1,6 +1,6 @@
 # Modern SVG icons
 Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
-Completely open source, MIT licensed and built by coreicon.dev
+Completely open-source, MIT licensed, and built by coreicon.dev
 # Core Free
 Based on a 24x24 grid for a design system, navigation, buttons, etc.
 # Core Pro
