@@ -8,7 +8,7 @@ Unlimited access to all 240+ UI icons for use in web, iOS, Android, and desktop 
 ### Figma source 
 www.figma.com/community/file/1105519588638228078
 ### Coreicon_bot. Telegram app.
-t.me/coreicon_bot
+https://t.me/coreicon_bot
 ### Support
 support@coreicon.dev
 ### Questions?
