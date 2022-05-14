@@ -6,7 +6,9 @@ Based on the 24x24 grid for a design system, navigation, buttons, etc.
 ### Coreicon Pro
 Unlimited access to all 240+ UI icons for use in web, iOS, Android, and desktop apps.
 ### Figma source 
-https://www.figma.com/community/file/1105519588638228078
+www.figma.com/community/file/1105519588638228078
+### Coreicon_bot. Telegram app.
+t.me/coreicon_bot
 ### Support
 support@coreicon.dev
 ### Questions?
