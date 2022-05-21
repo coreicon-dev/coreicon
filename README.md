@@ -2,7 +2,7 @@
 Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
 Completely open-source, MIT licensed, and built in Ukraine by Coreicon.
 >
-© 2022 with 🤍 by [@olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine 🇺🇦 
+© 2022 by [olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine💙💛
 ### Features
 • Based on 24px pixel-grid
 >
