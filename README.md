@@ -17,9 +17,9 @@ Completely open-source, MIT licensed, and built in Ukraine by Coreicon.
 • Integration into best apps (IconJar included)
 >
 ### Coreicon Pro
-Unlimited access to all 240+ UI icons for use in web, iOS, Android, and desktop apps.
+Get [coreicon pro](https://coreicon.dev/coreicon-payment.pdf) with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
 ### Figma source 
-Visit to [Coreicon v01.1](https://www.figma.com/community/file/1105519588638228078) in Figma community.
+Visit to [coreicon v01.1](https://www.figma.com/community/file/1105519588638228078) in Figma community.
 ### Support
 Have questions? [Let's talk](https://t.me/coreicon_bot) or add a request to support@coreicon.dev
 ### License
