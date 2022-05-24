@@ -8,17 +8,17 @@ synced with [Open Collective](https://opencollective.com/coreicon), MIT licensed
 >
 © 2022 by [olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine💙💛
 ### Features
->💡 Based on the grid 24 px
+>📐 Based on 24 pixel grid
 >
->📐 100% Vector & customizable
+>💡 100% Customizable
 >
 >🔐 MIT Licence
 >
->🧬 Figma components
+>🧬 Component Library
 >
 >💎 Pixel perfect
 >
->🧩 Work with IconJar
+>🧩 Figma, IconJar, IconJar
 >
 ### Coreicon Pro
 Get [coreicon pro](https://coreicon.dev/coreicon-payment.pdf) with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
