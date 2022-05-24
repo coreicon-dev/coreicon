@@ -11,6 +11,6 @@ Our website may link to external sites that are not operated by us. Please be aw
 
 You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
-Your continued use of our website will be regarded as an acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to [contact us](https://t.me/@coreicon_bot).
+Your continued use of our website will be regarded as an acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to [contact us](https://t.me/coreicon_bot).
 
 > This policy is effective as of 24 Feb 2022. Glory to Ukraine 🇺🇦
