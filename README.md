@@ -8,7 +8,7 @@ synced with [Open Collective](https://opencollective.com/coreicon), MIT licensed
 >
 © 2022 by [olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine💙💛
 ### Features
->📐 Based on 24 pixel grid
+>📐 Based on 24px grid
 >
 >💡 100% Customizable
 >
