@@ -4,7 +4,7 @@
 
 # Coreicon — modern SVG icons library
 Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
-Completely open-source, MIT licensed, and built in Ukraine by Coreicon.
+synced with [Open Collective](https://opencollective.com/coreicon), MIT licensed, and built in Ukraine.
 >
 © 2022 by [olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine💙💛
 ### Features
