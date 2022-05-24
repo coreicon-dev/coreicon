@@ -18,7 +18,7 @@ synced with [Open Collective](https://opencollective.com/coreicon), MIT licensed
 >
 >💎 Pixel perfect
 >
->🧩 Figma, IconJar, IconJar
+>🧩 Figma, IconJar, .SVG
 >
 ### Coreicon Pro
 Get [coreicon pro](https://coreicon.dev/coreicon-payment.pdf) with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
