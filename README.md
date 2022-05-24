@@ -29,4 +29,4 @@ Have questions? [Let's talk](https://t.me/coreicon_bot) or add a request to supp
 ### License
 Licensed under [MIT](https://choosealicense.com/licenses/mit/)
 ### Contribute
-Support this project with your organization. [Became contribute](https://opencollective.com/coreicon)
+Support this project with your organization. [Become contribute](https://opencollective.com/coreicon)
