@@ -8,17 +8,17 @@ Completely open-source, MIT licensed, and built in Ukraine by Coreicon.
 >
 © 2022 by [olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine💙💛
 ### Features
-• Based on 24px pixel-grid
+• Based on the grid 24 px
 >
-• 1.5px line stroke
+• 100% Vector & customizable
 >
-• All shapes are vector
+• MIT Licence
 >
-• Fluid styles
+• Figma components
 >
-• Easily to change scale and tone
+• Pixel perfect
 >
-• Integration into best apps (IconJar included)
+• Work with IconJar
 >
 ### Coreicon Pro
 Get [coreicon pro](https://coreicon.dev/coreicon-payment.pdf) with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
