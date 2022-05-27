@@ -4,30 +4,30 @@
 
 # Coreicon — modern SVG icons library
 Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
-synced with [Open Collective](https://opencollective.com/coreicon), MIT licensed, and built in Ukraine.
+synced with <code>[Open Collective](https://opencollective.com/coreicon)</code>, MIT licensed, and built in Ukraine.
 >
 ### Features
->📐 Based on 24px grid
+``📐 Based on 24px grid``
 >
->💡 100% Customizable
+``💡 100% Customizable``
 >
->🔐 MIT Licence
+``🔐 MIT Licence``
 >
->🧬 Component Library
+``🧬 Component Library``
 >
->💎 Pixel perfect
+``💎 Pixel perfect``
 >
->🧩 Figma, IconJar, .SVG
+``🧩 Figma, IconJar, .SVG``
 >
 ### Coreicon Pro
-Get [Coreicon pro](https://coreicon.dev/coreicon-payment.pdf) with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
+Get <code>[Coreicon pro](https://coreicon.dev/coreicon-payment.pdf)</code> with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
 ### Figma source 
-Visit to [Coreicon v01.1](https://www.figma.com/community/file/1105519588638228078) in Figma community.
+Visit to <code>[Coreicon v01.1](https://www.figma.com/community/file/1105519588638228078)</code> in Figma community.
 ### Support
-Have questions? [Let's talk](https://t.me/coreicon_bot) or add a request to support@coreicon.dev
+Have questions? <code>[Let's talk](https://t.me/coreicon_bot)</code> or add a request to <code>support@coreicon.dev</code>
 ### License
-Licensed under [MIT](https://choosealicense.com/licenses/mit/)
+Licensed under <code>[MIT](https://choosealicense.com/licenses/mit/)</code>
 ### Contribute
-Support this project with your organization. [Become contribute](https://opencollective.com/coreicon)
+Support this project with your organization. <code>[Become contribute](https://opencollective.com/coreicon)</code>
 >
-© 2022 by [@olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine💙💛
+<code> © 2022 by [@olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine 💙💛</code>
