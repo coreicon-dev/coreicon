@@ -1,7 +1,7 @@
  
 
  html, body {
-   font-family: 'Lexend', 'Apple Color Emoji', sans-serif;
+   font-family: 'Lexend', 'e-Ukraine', 'Apple Color Emoji', sans-serif;
    line-height: 1.5;
    font-style: normal;
    -webkit-text-size-adjust: 100%;
@@ -112,7 +112,7 @@ h4 {
   display: block;
   position: absolute;
   margin: auto;
-  top: -6vh;
+  top: -10vh;
   right: 0;
   z-index: -10;
 }
@@ -280,7 +280,7 @@ h4 {
    display: inline-flex;
    justify-content: flex-end;
    font-weight: 400;
-   font-size: 12px;
+   font-size: 14px;
    color: #121B2B;
  }
 
@@ -989,10 +989,17 @@ h4 {
    margin-right: 48px;
  }
 
+ @media screen and (max-width: 400px) {
+  .mr-48 {
+     margin-right: 24px;
+    }
+}
+
  .core-link {
    font-size: 12px;
-   font-weight: 500;
-   color: #121B2B;
+   font-weight: 300;
+   color: #566176;
+   text-transform: uppercase;
  }
 
  .logo-core-foo {
