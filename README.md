@@ -4,7 +4,7 @@
 
 # Coreicon — modern SVG icons library
 Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
-synced with <code>[Open Collective](https://opencollective.com/coreicon)</code>, MIT licensed, and built in Ukraine.
+synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-modern-svg-icons-for-web-and-desktop-apps)</code>, MIT licensed, and built in Ukraine.
 >
 ### Features
 ``📐 Based on 24px grid``
