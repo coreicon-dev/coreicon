@@ -27,7 +27,5 @@ Visit to <code>[Coreicon v01.1](https://www.figma.com/community/file/11055195886
 Have questions? <code>[Let's talk](https://t.me/coreicon_bot)</code> or add a request to <code>support@coreicon.dev</code>
 ### License
 Licensed under <code>[MIT](https://choosealicense.com/licenses/mit/)</code>
-### Contribute
-Support this project with your organization. <code>[Become contribute](https://opencollective.com/coreicon)</code>
 >
 <code> © 2022 by [@olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine 💙💛</code>
