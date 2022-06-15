@@ -4,7 +4,7 @@
 
 # Coreicon — modern SVG icons library
 Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
-synced with <code>[Open Collective](https://opencollective.com/coreicon)</code>, MIT licensed, and built in Ukraine.
+synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-modern-svg-icons-for-web-and-desktop-apps)</code>, MIT licensed, and built in Ukraine.
 >
 ### Features
 ``📐 Based on 24px grid``
@@ -27,7 +27,5 @@ Visit to <code>[Coreicon v01.1](https://www.figma.com/community/file/11055195886
 Have questions? <code>[Let's talk](https://t.me/coreicon_bot)</code> or add a request to <code>support@coreicon.dev</code>
 ### License
 Licensed under <code>[MIT](https://choosealicense.com/licenses/mit/)</code>
-### Contribute
-Support this project with your organization. <code>[Become contribute](https://opencollective.com/coreicon)</code>
 >
 <code> © 2022 by [@olehpf](https://www.figma.com/@olehpf) in Bucha, Ukraine 💙💛</code>
