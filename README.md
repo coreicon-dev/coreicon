@@ -3,7 +3,7 @@
 </p>
 
 # Coreicon — modern SVG icons library
-Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps
+Coreicon library includes 256 UI icons for web, iOS, Android, and desktop apps
 synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-modern-svg-icons-for-web-and-desktop-apps)</code>, MIT licensed, and built in Ukraine.
 >
 ### Features
@@ -20,7 +20,7 @@ synced with <code>[Awwwards](https://www.awwwards.com/inspiration/coreicon-moder
 ``🧩 Figma, IconJar, .SVG``
 >
 ### Coreicon Pro
-Get <code>[Coreicon pro](https://coreicon.dev/coreicon-payment.pdf)</code> with access to all 240+ UI icons for use in web, iOS, Android, and desktop apps after payment.
+Get <code>[Coreicon pro](https://coreicon.dev/coreicon-payment.pdf)</code> with access to all 256 UI icons for use in web, iOS, Android, and desktop apps after payment.
 ### Figma source 
 Visit to <code>[Coreicon v01.3](https://www.figma.com/file/cAgIx1y4ajTImj5nzqlWCy/CoreIcon-v01.3-(preview)?node-id=0%3A1)</code> in Figma community.
 ### Support
