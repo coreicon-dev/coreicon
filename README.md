@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/coreicon-dev/coreicon/blob/main/img/bg/cover.png" alt="Coreicon">
+  <img src="https://github.com/coreicon-dev/coreicon/blob/main/img/bg/cover_github.png" alt="Coreicon">
 </p>
 
 # Coreicon — modern SVG icons library
