@@ -69,7 +69,7 @@
     text-transform: uppercase;
     font-size: 10px;
     color: #566176;
-    padding: 3px 8px;
+    padding: 3px 6px;
     max-width: 80px;
     background-color: #ECEEF3;
 }   
@@ -132,11 +132,16 @@ hr {
    }
 
 .blog-cover {
-    display: flex;
-    aspect-ratio: 2/1;
     border-radius: inherit;
-    background-size: cover;
+    background-size: contain;
 }
+
+@media screen and (max-width: 400px) {
+    .blog-cover {
+    width: 208px;
+    height: 104px;
+    }
+  }
 
    /* ==== cta-banner ==== */
 
