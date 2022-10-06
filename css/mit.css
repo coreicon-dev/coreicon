@@ -89,7 +89,13 @@
     .docs-body, .mb-64 {
         margin-bottom: 40px;
       }
-    }    
+    }
+    
+@media screen and (max-width: 600px) {
+    .docs-body, .sm\:mb-32 {
+        margin-bottom: 32px;
+        }
+    }
 
  .d-hd {
     grid-area: h;

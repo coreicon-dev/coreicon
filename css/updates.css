@@ -126,20 +126,22 @@ hr {
 
 @media screen and (max-width: 400px) {
     .b-slot-2 {
-     width: 208px;
-     height: 104px;
+     width: 208px !important;
+     height: 104px !important;
     }
    }
 
 .blog-cover {
+    display: flex;
+    width: 256px;
+    height: 128px;
     border-radius: inherit;
-    background-size: contain;
 }
 
 @media screen and (max-width: 400px) {
     .blog-cover {
-    width: 208px;
-    height: 104px;
+    width: 208px !important;
+    height: 104px !important;
     }
   }
 
