@@ -1,0 +1,224 @@
+@import url(/../css/main.css);
+@import url(/../css/mit.css);
+@import url(/../css/updates.css);
+
+.card-pack {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+@media screen and (max-width:1160px) {
+    .card-pack {
+        display: flex !important;
+        flex-direction: column !important;
+    } 
+}
+
+@media screen and (max-width:960px) {
+    .card-pack {
+        display: flex !important;
+        flex-direction: column !important;
+    } 
+}
+
+@media screen and (max-width:720px) {
+    .card-pack {
+        display: flex !important;
+        flex-direction: column !important;
+    } 
+}
+
+@media screen and (max-width:1280px) {
+    .md\:gap-40 {
+        gap: 40px !important;
+    } 
+}
+
+@media screen and (max-width:1280px) {
+    .md\:gap-16 {
+        gap: 16px !important;
+    } 
+}
+
+.card-pack_hd {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width:1160px) {
+    .card-pack_hd {
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-between;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:960px) {
+    .card-pack_hd {
+        flex-direction: row;
+        align-items: flex-start;
+    }
+}
+
+@media screen and (max-width:720px) {
+    .card-pack_hd {
+        flex-direction: column !important;
+        align-items: flex-start !important;
+    }
+}
+
+.c-pack_title {
+    display: inline-flex;
+    flex-direction: column;
+    width: 460px;
+}
+
+@media screen and (max-width:1160px) {
+    .c-pack_title {
+        width: 460px !important;
+    }
+}
+
+@media screen and (max-width:720px) {
+    .c-pack_title {
+        width: 100% !important;
+        flex-direction: column !important;
+        align-items: flex-start;
+    }
+}
+
+.c-pack_title-b {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width:720px) {
+    .c-pack_title-b {
+        width: 100% !important;
+        flex-direction: row !important;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (max-width:520px) {
+    .c-pack_title-b {
+        width: 100% !important;
+        flex-direction: column !important;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+}
+
+.card-pack_bd {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 1px 1px 2px 
+        rgb(18 27 43 / 6%), -1px 1px 2px 
+        rgb(18 27 43 / 6%), 0px 1px 1px 
+        rgb(18 27 43 / 3%), 0px -1px 1px 
+        rgb(18 27 43 / 6%);
+}
+
+.card-cover {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    background-size: auto;
+}
+
+@media screen and (max-width:1160px) {
+    .card-cover {
+        max-width: 100% !important;
+    }
+}
+
+@media screen and (max-width:520px) {
+    .card-cover {
+        max-width: none !important;
+        max-height: 100% !important;
+    }
+}
+
+.btn-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.i-numb {
+    font-size: 56px;
+}
+
+.p-desc-l {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.p-desc-s {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.desc-list-2in1 {
+    display: inline-flex;
+    flex-direction: row;
+    width: max-content;
+}
+
+.d-item {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.d-item-light {
+    font-size: 14px;
+    font-weight: 300;
+    color: #353E50;
+}
+
+.p-group {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.desc-set {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.i-box_desc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: #F9EF07;
+}
+
+.max-w-400 {
+    max-width: 400px;
+}
+
+@media screen and (max-width:520px) {
+    .max-w-400 {
+        max-width: none !important;
+    }
+}
+
+@media screen and (max-width:520px) {
+    .sm\:full-w {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width:520px) {
+    .sm\:br-16 {
+        border-radius: 16px;
+    }
+}
