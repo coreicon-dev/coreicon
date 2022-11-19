@@ -2,7 +2,7 @@
   <img src="https://github.com/coreicon-dev/coreicon/blob/main/img/bg/github-cover.png" alt="Coreicon">
 </p>
 
-# Coreicon — modern SVG icons library
+# Coreicon — modern SVG icons
 Coreicon library includes over 780 UI icons for web, iOS, Android, and desktop apps
 >
 ### Features
