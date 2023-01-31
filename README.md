@@ -3,7 +3,7 @@
 </p>
 
 # Coreicon — modern SVG icons
-Coreicon library includes over 780 UI icons for web, iOS, Android, and desktop apps
+Coreicon library includes over 910 UI icons for web, iOS, Android, and desktop apps
 >
 ### Features
 ``📐 Based on 24px grid``
