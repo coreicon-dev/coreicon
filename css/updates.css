@@ -41,9 +41,14 @@
    .main-updates {
     display: grid;
     grid-area: m;
+    position: relative;
+    place-content: center;
     background: 
-        url('/../img/bg/coreicon_item-bg@2x.png');
+        url('/../img/bg/cover-about.webp');
+    background-position-x: 0;
+    background-position-y: 0;
     background-size: cover;
+    min-height: 400px; 
 }
 
 .m-title-left-flex {
@@ -59,25 +64,26 @@
     font-size: 12px;
     background-color: #121B2B;
     color: white;
-    max-width: 80px;
     height: 22px;
 }
 
 .body-text-sc {
     display: inline;
     font-weight: 400;
+    text-align: center;
     text-transform: uppercase;
     font-size: 10px;
     color: #566176;
     padding: 3px 6px;
     max-width: 80px;
+    max-width: max-content;
     background-color: #ECEEF3;
 }   
-
 
 .body-updates {
     grid-area: b;
     display: grid;
+    flex-direction: row;
     gap: 24px;
     background-color: white;
     box-shadow: 
@@ -159,4 +165,33 @@ hr {
     .mt-128 {
       margin-top: 64px;
     }
+   }
+
+   .flex-ca {
+    display: inline-flex;
+    place-content: center;
+    align-items: center;
+    align-self: center;
+    width: 100%;
+   }
+
+   @media screen and (max-width: 540px) {
+    .flex-ca {
+      margin-top: 24px;
+      place-content: flex-start;
+    }
+   }
+
+   .fl-col {
+    display: inline-flex;
+    flex-direction: column;
+    align-content: flex-start;
+   }
+
+   .fl-start {
+    justify-content: flex-start;
+   }
+
+   .mb-2 {
+    margin-bottom: 2px;
    }
